@@ -1,7 +1,9 @@
 # Timesheet
 **Purpose**
 
-This project contains the following:
+An academic project that demonstrates my skills in Object Oriented Programming. 
+
+The Timesheet project contains the following:
 
 TimesheetRow.java:
 
